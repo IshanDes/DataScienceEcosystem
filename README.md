@@ -1,2 +1,2 @@
 # DataScienceEcosystem
-My First Every Jupyter Notebook
+My First Ever Jupyter Notebook
